@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tiktok Downloader</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share_your_friends">Share Your Friends</string>
+    <string name="our_other_pp">Our other Apps</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="how_to_use">How to use?</string>
+    <string name="demo_video">Demo Video</string>
+    <string name="app_not_working">App not working</string>
+    <string name="feedback">Feedback</string>
+</resources>

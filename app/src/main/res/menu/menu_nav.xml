@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_download_pink"
+        android:id="@+id/nav_videos"
+        android:title="Videos"/>
+
+    <item android:id="@+id/nav_my_downloads"
+        android:icon="@drawable/ic_mydownload_grey"
+        android:title="My Downloads"/>
+
+    <item android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Setting"/>
+</menu>
